@@ -1,0 +1,3 @@
+UserName,Password,SiteName,EmailID,Unit,Role,FirstName,LastName
+BE_TestUser06,yash1234567890,BE,TestUser04@csl.com,MFG,AMLead,Amit,Nigam
+MR_TestUser05,yash1234567890,MR,TestUser03@csl.com,QC,ADMIN,Sayali,Hande
